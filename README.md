@@ -1,12 +1,13 @@
 # Anki Desk Factory
 
-Easy desk generator for Anki
+Easy automate desk generator for Anki
 
 Resume:
-- Input words in format json (Example @dariusk `corpora`)
+- Input words in format json (Example @dariusk `corpora` common words of English, around 900 words)
 - Translation in your language using freedict in mode offline
 - TTS using gTTS online or pyttsx3 in mode offline
 - Scraping gif for each word
+- Generate desk in only one command
 
 Execution examples:
 ```

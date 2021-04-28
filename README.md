@@ -3,7 +3,7 @@
 Easy automate desk generator for Anki
 
 Resume:
-- Input words in format json (Example @dariusk [corpora](https://github.com/dariusk/corpora/blob/master/data/words/common.json) common words of English, around 900 words)
+- Input words in format json (Example @dariusk [corpora common words of English](https://github.com/dariusk/corpora/blob/master/data/words/common.json) around 900 words)
 - Translation in your language using [freedict](https://freedict.org/downloads/) in mode offline
 - TTS using [gTTS](https://gtts.readthedocs.io/en/latest/) online or [pyttsx3](https://github.com/nateshmbhat/pyttsx3) in mode offline
 - Scraping gif for each word

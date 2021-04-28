@@ -1,4 +1,4 @@
-# Anki Desk Factory (Automate desk generator)
+# Anki Desk Factory - Automate desk generator
 
 Easy automate desk generator for Anki with input in json
 

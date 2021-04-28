@@ -1,6 +1,6 @@
 # Anki Desk Factory
 
-Easy automate desk generator for Anki with input in json
+Easy automated desk generator for Anki with input in json
 
 Resume:
 - Input words in format json (Example @dariusk [corpora common words of English](https://github.com/dariusk/corpora/blob/master/data/words/common.json) around 900 words)
